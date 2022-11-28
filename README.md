@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit
 - 👀 I’m interested in full stack development and ready to learn.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on anything tech. 
 - 📫 reach me  on mail sumit8055@yahoo.com
 
 <!---
